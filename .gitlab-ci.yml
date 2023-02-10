@@ -1,0 +1,4 @@
+include:
+  - project: 'stgsolution/global/raichu-devops'
+    ref: master
+    file: '/support/gitlab-ci/template-maven.yml'

@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: s-communication
+  cloud:
+    config:
+      uri: http://s-configuration:8080
+      fail-fast: true
